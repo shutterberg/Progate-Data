@@ -1,0 +1,471 @@
+----------------------------------------
+Python Only:106
+Jayasurya
+K Nisha
+Rhea Benedicta D’Souza
+Joel Dsouza
+Nidhi
+H Harikrishna Pai
+Krithika.P
+Kiran
+Siona Misha Nazareth
+Akanksha J K
+G Sunil
+dhanya.k5116
+Keerthana
+Anoosh Dsouza
+Tanusha Attavar
+Linet Prajna Aranha
+Lincia Grishma Dsouza
+Lisha vas
+S S Jayashree
+Quenton Rebello
+Sanjana rawat
+Vanessa Sharon Soans
+Vinaya A Shetty
+Prateeksha Radhakrishna Rai
+Pranav Kamath B
+Rajath G Rao
+Pooja K S
+Rachel Gwynath Mendonsa
+Kripashree M S
+Alvita Lasly Pinto
+Karvender Singh
+Harshitha B A
+Sanith Dsouza
+Mahima H N
+K DIVYA PAI
+Lenitia Ayrel Sequeira
+SHRAVYA P S
+Poorva Naik
+Jothsna Maria Dsouza
+Shifali.B.S
+Anitia Lyrel Sequeira
+Dhanushree S
+Srishti Bhandarkar
+Abigail Janice Tauro
+SUSHANTH
+Rachael Priya Dsouza
+Ajith M D
+Novin Misquith
+Himani Bannanje
+Neha Deepak Khavanekar
+Chaithra
+Denson Flaid Dsouza
+Shravya A
+Ananya G
+Suhas Hegde
+Swathi Prabhu K
+Sudhiksha S Prabhu
+Jenifer
+Dhanya G
+Carol Dsouza
+Deepthi
+Anisha Dsouza
+Ankitha
+Neha L K
+Vandana Ann Goveas
+Neha K M
+Keith
+Kevin Arun
+Anusha J Shetty
+Prathvi N B
+Harshitha Nayak
+Sujani K M
+Adithya K Shetty
+Ankitha Rai K
+ashwinfernandes10par
+Vinyas
+Suraj B Shetty
+Varsha A
+NIKIL B BANGERA
+AMAL TOM MANOJ
+Prahalya Mathias
+Mahammad jasim
+MOHAMMED
+krithik kiran
+alstonrock
+jenolpinto18
+Pallavi S Poojary
+Jahnavi P S
+DISHA TANTRY
+anushaursuline
+Kavya
+Samriddhi Umanath Shetty
+Sherwin Bryan
+blazedsouza24
+Deepak
+Manoj
+Chandini
+DHANYASHREE
+Supritha G
+PRATHIBHA MP
+NISHMA A NAIR
+Sanjay Shankar Bhat
+fidhahkhatija
+izohrareem
+TV MANOJ
+himanshuchettimada48
+----------------------------------------
+Java Only:66
+K Nisha
+Rhea Benedicta D’Souza
+Joel Dsouza
+Nidhi
+H Harikrishna Pai
+Siona Misha Nazareth
+Akanksha J K
+G Sunil
+dhanya.k5116
+Anoosh Dsouza
+Tanusha Attavar
+Linet Prajna Aranha
+Lincia Grishma Dsouza
+gautham
+Lisha vas
+Rajath G Rao
+Kripashree M S
+Alvita Lasly Pinto
+Jothsna Maria Dsouza
+Shifali.B.S
+Dhanushree S
+Srishti Bhandarkar
+Abigail Janice Tauro
+Ajith M D
+Novin Misquith
+Neha Deepak Khavanekar
+Sana Parveen
+Chaithra
+Denson Flaid Dsouza
+Ananya G
+Swathi Prabhu K
+Dhanya G
+Deeksha
+Deepthi
+Anisha Dsouza
+Ankitha
+Neha L K
+Vandana Ann Goveas
+Neha K M
+Keith
+Kevin Arun
+Anusha J Shetty
+Lakshmi Gupta
+Harshitha Nayak
+Sujani K M
+Dale
+Ankitha Rai K
+ashwinfernandes10par
+Vinyas
+U R Ravithejaswi
+Suraj B Shetty
+NIKIL B BANGERA
+krithik kiran
+alstonrock
+jenolpinto18
+DISHA TANTRY
+anushaursuline
+Sherwin Bryan
+blazedsouza24
+Manoj
+DHANYASHREE
+PRATHIBHA MP
+Sanjay Shankar Bhat
+TV MANOJ
+athrikapattar
+Meghana R
+----------------------------------------
+Python and Java:58
+K Nisha
+Rhea Benedicta D’Souza
+Joel Dsouza
+Nidhi
+H Harikrishna Pai
+Siona Misha Nazareth
+Akanksha J K
+G Sunil
+dhanya.k5116
+Anoosh Dsouza
+Tanusha Attavar
+Linet Prajna Aranha
+Lincia Grishma Dsouza
+Lisha vas
+Rajath G Rao
+Kripashree M S
+Alvita Lasly Pinto
+Jothsna Maria Dsouza
+Shifali.B.S
+Dhanushree S
+Srishti Bhandarkar
+Abigail Janice Tauro
+Ajith M D
+Novin Misquith
+Neha Deepak Khavanekar
+Chaithra
+Denson Flaid Dsouza
+Ananya G
+Swathi Prabhu K
+Dhanya G
+Deepthi
+Anisha Dsouza
+Ankitha
+Neha L K
+Vandana Ann Goveas
+Neha K M
+Keith
+Kevin Arun
+Anusha J Shetty
+Harshitha Nayak
+Sujani K M
+Ankitha Rai K
+ashwinfernandes10par
+Vinyas
+Suraj B Shetty
+NIKIL B BANGERA
+krithik kiran
+alstonrock
+jenolpinto18
+DISHA TANTRY
+anushaursuline
+Sherwin Bryan
+blazedsouza24
+Manoj
+DHANYASHREE
+PRATHIBHA MP
+Sanjay Shankar Bhat
+TV MANOJ
+----------------------------------------
+Ranking
+0 Novin Misquith
+1 Srishti Bhandarkar
+2 Lisha vas
+3 Ankita (Progate)
+4 Dhanya G
+5 Akanksha J K
+6 Lincia Grishma Dsouza
+7 Rhea Benedicta D’Souza
+8 G Sunil
+9 Swathi Prabhu K
+10 Neha Deepak Khavanekar
+11 Neha L K
+12 Siona Misha Nazareth
+13 K Nisha
+14 DISHA TANTRY
+15 Ajith M D
+16 Denson Flaid Dsouza
+17 Rishal Venisha Dsouza
+18 ashwinfernandes10par
+19 alstonrock
+20 Jothsna Maria Dsouza
+21 Ananya G
+22 Anisha Dsouza
+23 Keerthana
+24 Kiran
+25 krithik kiran
+26 Joel Dsouza
+27 kadalimeghana
+28 Harshitha Nayak
+29 Shifali.B.S
+30 anushaursuline
+31 dhanya.k5116
+32 DHANYASHREE
+33 Vinyas
+34 Dhanushree S
+35 NIKIL B BANGERA
+36 Keith
+37 Sujani K M
+38 Jenifer
+39 Krithika.P
+40 Deepthi
+41 Anusha J Shetty
+42 Nidhi
+43 Vandana Ann Goveas
+44 Suraj B Shetty
+45 Sherwin Bryan
+46 Kripashree M S
+47 Abigail Janice Tauro
+48 PRATHIBHA MP
+49 H Harikrishna Pai
+50 Rajath G Rao
+51 Sanjay Shankar Bhat
+52 Manoj
+53 Chaithra
+54 blazedsouza24
+55 Alvita Lasly Pinto
+56 Neha K M
+57 TV MANOJ
+58 Tanusha Attavar
+59 Anoosh Dsouza
+60 Ankitha Rai K
+61 Linet Prajna Aranha
+62 Ankitha
+63 jenolpinto18
+64 Kevin Arun
+65 Chandini
+66 Carol Dsouza
+67 K DIVYA PAI
+68 SUSHANTH
+69 Jayasurya
+70 Vanessa Sharon Soans
+71 Shravya A
+72 SHRAVYA P S
+73 Anitia Lyrel Sequeira
+74 Sudhiksha S Prabhu
+75 AMAL TOM MANOJ
+76 Sana Parveen
+77 Supritha G
+78 Meghana R
+79 Mahima H N
+80 izohrareem
+81 Karvender Singh
+82 Lenitia Ayrel Sequeira
+83 Mahammad jasim
+84 Prahalya Mathias
+85 S S Jayashree
+86 gautham
+87 NISHMA A NAIR
+88 Jahnavi P S
+89 Dale
+90 Deeksha
+91 Adithya K Shetty
+92 Poorva Naik
+93 Lakshmi Gupta
+94 athrikapattar
+95 U R Ravithejaswi
+96 Prathvi N B
+97 Sanjana rawat
+98 anakin9
+99 Pranav Kamath B
+100 Ayush Devrani
+101 Samriddhi Umanath Shetty
+102 Rachel Gwynath Mendonsa
+103 himanshuchettimada48
+104 Himani Bannanje
+105 Quenton Rebello
+106 fidhahkhatija
+107 Pallavi S Poojary
+108 Kavya
+109 Deepak
+110 Vinaya A Shetty
+111 Prateeksha Radhakrishna Rai
+112 Pooja K S
+113 MOHAMMED
+114 Varsha A
+115 Sanith Dsouza
+116 Suhas Hegde
+117 Rachael Priya Dsouza
+118 Harshitha B A
+119 Nisha
+120 Calisha
+121 JENNIFER SERRAO
+122 Andrea May Fernandes
+123 Pramitha
+124 hrithik singh
+125 Prashant sinha
+126 SOLOMON MITHRA
+127 Deekshit
+128 P sinchana rao
+129 Brendon Cutinha
+130 S. Priya
+131 Rhea DSouza
+132 Aparna
+133 MARIAMMA.K.V
+134 rayanpinto03
+135 Anisha Viola Menezes
+136 Jeeda Corda
+137 Akanksha
+138 Sukshith
+139 Venisha Shaily Dsouza
+140 Adeline Pinto
+141 dheerajnn16
+142 Madhavan d
+143 samarth shetty
+144 Shravya
+145 Harshitha S
+146 Denisha Fernandes
+147 kamathshreya9
+148 S D Prajwal
+149 Revisha Shareen Vas
+150 Shreyas Narayan
+151 anirudhpandaofficial
+152 Vijay.S
+153 Supritha G
+154 Kurian Joseph
+155 melroydsouza50
+156 Madhusha Fernandes
+157 Mohammed Muzain Ali
+158 Divya Cheryl Moras
+159 shaun.dsouza77
+160 Nishmitha Shetty
+161 Shambhavi
+162 SUJITH
+163 Sushmita Dsouza
+164 Chandana S L
+165 sriganesh7334
+166 Komala p
+167 Shashank R Poojary
+168 Saad
+169 nitheshpai07
+170 Vaibhav K Suvarna
+171 Alice
+172 Chirashree
+173 Nireekshith
+174 Raksha D D
+175 Sridevi
+176 Nisha
+177 Nupur
+178 Usha K S
+179 vinitha4054
+180 GOUTAM KRISHNA MOGER
+181 Alvina Vanessa Mendonca
+182 Shifani D Souza
+183 Prashnitha
+184 Prashanth shetty
+185 Jenifer Carol Menezes
+186 Maithri
+187 Saivinya Shetty A
+188 Tanya
+189 Mohammed Shakeel
+190 Sowmya S
+191 roysondsouza999rd
+192 Sandeep K
+193 Sharmila Gond
+194 divyasuvarna.v
+195 Manisha Prathap
+196 Isha Bekal
+197 Shreyash P U
+198 Mahara Aysha Iqbal Hussain
+199 Mohammed Sadaf
+200 ganeshgani6667
+201 Harshitha Mayya
+202 Neha Naveen
+203 Muzammil.s
+204 Arpita
+205 Anushree BS
+206 ANSON SAVER DSOUZA
+207 Ashmitha
+208 Aarondan Pinto
+209 Manasa shetty
+210 Aaron lobo
+211 Anusha Upadya
+212 prateekshaps27
+213 Prashant sinha
+214 Nishanth M
+215 Arshith Darren
+216 Muhammad Swalih K H
+217 prabhusanketh
+218 Ankith Thomas
+219 Ashmitha Melita Castelino
+220 Clita Michael Fernandes
+221 Apeksha
+222 Harsh Pawaskar
+223 Learning Weekend H36
+224 Abhi k v
+225 Jyothi Y
+226 Shetty Lakshmi Jaysheel
+227 Keerthi K
+228 Taara
+229 Ranson
+230 P Dhanasekar
+231 Roxanne
+232 Deson
